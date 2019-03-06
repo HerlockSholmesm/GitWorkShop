@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitWorkShop.iml" filepath="$PROJECT_DIR$/.idea/GitWorkShop.iml" />
       <module fileurl="file://$PROJECT_DIR$/GitWorkShop.iml" filepath="$PROJECT_DIR$/GitWorkShop.iml" />
     </modules>
   </component>
